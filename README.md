@@ -1,0 +1,1 @@
+So $q_0 = 1$ means “obvious in the raw data,” and the lower values mean “recoverable with signal processing.” The lower the threshold you assume, the wider the mass window, and the real answer depends on how good the analysis can get.
